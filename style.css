@@ -21,11 +21,11 @@ body{
 
 #subs{
     float:middle;
-    padding-left:10%;
-    padding-right:10%;
+    padding-left:7%;
+    padding-right:7%;
 }
-#subs a:hover{
-    color:#cd8b4e !importnt;
+#subA:hover{
+    color:red !important;
 }
 #subP{
     margin-top: 22%;
@@ -41,7 +41,7 @@ body{
     height:30vh;
 }
 #aboutT{
-    
+
     color:white;
     font-family: panton;
     font-size:100px;
