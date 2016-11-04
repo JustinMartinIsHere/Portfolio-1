@@ -25,7 +25,8 @@ body{
     padding-right:7%;
 }
 #subA:hover{
-    color:red !important;
+    color:grey !important;
+    text-decoration: none;
 }
 #subP{
     margin-top: 22%;
