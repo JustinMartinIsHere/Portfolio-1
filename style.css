@@ -15,7 +15,7 @@ body{
 }
 #logo{
     height:auto;
-    width:55%;
+    width:63%;
     margin-top:-10%;
 }
 
@@ -23,12 +23,17 @@ body{
     float:middle;
     padding-left:7%;
     padding-right:7%;
+
+   color:white;
+   transition: color .25s ease-in-out;
+   -moz-transition: color .25s ease-in-out;
+   -webkit-transition: color .25s ease-in-out;
 }
 #subA:hover{
-    color:red !important;
+    color:red;
 }
 #subP{
-    margin-top: 22%;
+    margin-top: 18%;
 }
 #subA{
     color:white !important;
